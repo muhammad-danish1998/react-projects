@@ -3,7 +3,7 @@ import "./App.css";
 import ToggleBtn from "./components/ToggleBtn";
 const App = () => {
   return (
-    <div className="flex justify-center items-center">
+    <div className="">
    <ToggleBtn />
     </div>
   );
